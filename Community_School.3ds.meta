@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 811bd10cca1d97a4fbb59a3fb79ba832
+timeCreated: 1623484246
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh1 doorkn
+    100004: Mesh10 doork
+    100006: Mesh11 doork
+    100008: Mesh12 doork
+    100010: Mesh13 doork
+    100012: Mesh14 doork
+    100014: Mesh15 doork
+    100016: Mesh16 doork
+    100018: Mesh17 doork
+    100020: Mesh18 doork
+    100022: Mesh19 doork
+    100024: Mesh2 doorkn
+    100026: Mesh20 doork
+    100028: Mesh21 doork
+    100030: Mesh22 doork
+    100032: Mesh23 doork
+    100034: Mesh24 doork
+    100036: Mesh25 doork
+    100038: Mesh26 doork
+    100040: Mesh27 doork
+    100042: Mesh28 doork
+    100044: Mesh29 doork
+    100046: Mesh3 doorkn
+    100048: Mesh30 doork
+    100050: Mesh31 doork
+    100052: Mesh32 doork
+    100054: Mesh33 doork
+    100056: Mesh34 doork
+    100058: Mesh35 doork
+    100060: Mesh36 doork
+    100062: Mesh37 Group
+    100064: Mesh4 doorkn
+    100066: Mesh5 doorkn
+    100068: Mesh6 doorkn
+    100070: Mesh7 doorkn
+    100072: Mesh8 doorkn
+    100074: Mesh9 doorkn
+    400000: //RootNode
+    400002: Mesh1 doorkn
+    400004: Mesh10 doork
+    400006: Mesh11 doork
+    400008: Mesh12 doork
+    400010: Mesh13 doork
+    400012: Mesh14 doork
+    400014: Mesh15 doork
+    400016: Mesh16 doork
+    400018: Mesh17 doork
+    400020: Mesh18 doork
+    400022: Mesh19 doork
+    400024: Mesh2 doorkn
+    400026: Mesh20 doork
+    400028: Mesh21 doork
+    400030: Mesh22 doork
+    400032: Mesh23 doork
+    400034: Mesh24 doork
+    400036: Mesh25 doork
+    400038: Mesh26 doork
+    400040: Mesh27 doork
+    400042: Mesh28 doork
+    400044: Mesh29 doork
+    400046: Mesh3 doorkn
+    400048: Mesh30 doork
+    400050: Mesh31 doork
+    400052: Mesh32 doork
+    400054: Mesh33 doork
+    400056: Mesh34 doork
+    400058: Mesh35 doork
+    400060: Mesh36 doork
+    400062: Mesh37 Group
+    400064: Mesh4 doorkn
+    400066: Mesh5 doorkn
+    400068: Mesh6 doorkn
+    400070: Mesh7 doorkn
+    400072: Mesh8 doorkn
+    400074: Mesh9 doorkn
+    2300000: Mesh1 doorkn
+    2300002: Mesh10 doork
+    2300004: Mesh11 doork
+    2300006: Mesh12 doork
+    2300008: Mesh13 doork
+    2300010: Mesh14 doork
+    2300012: Mesh15 doork
+    2300014: Mesh16 doork
+    2300016: Mesh17 doork
+    2300018: Mesh18 doork
+    2300020: Mesh19 doork
+    2300022: Mesh2 doorkn
+    2300024: Mesh20 doork
+    2300026: Mesh21 doork
+    2300028: Mesh22 doork
+    2300030: Mesh23 doork
+    2300032: Mesh24 doork
+    2300034: Mesh25 doork
+    2300036: Mesh26 doork
+    2300038: Mesh27 doork
+    2300040: Mesh28 doork
+    2300042: Mesh29 doork
+    2300044: Mesh3 doorkn
+    2300046: Mesh30 doork
+    2300048: Mesh31 doork
+    2300050: Mesh32 doork
+    2300052: Mesh33 doork
+    2300054: Mesh34 doork
+    2300056: Mesh35 doork
+    2300058: Mesh36 doork
+    2300060: Mesh37 Group
+    2300062: Mesh4 doorkn
+    2300064: Mesh5 doorkn
+    2300066: Mesh6 doorkn
+    2300068: Mesh7 doorkn
+    2300070: Mesh8 doorkn
+    2300072: Mesh9 doorkn
+    3300000: Mesh1 doorkn
+    3300002: Mesh10 doork
+    3300004: Mesh11 doork
+    3300006: Mesh12 doork
+    3300008: Mesh13 doork
+    3300010: Mesh14 doork
+    3300012: Mesh15 doork
+    3300014: Mesh16 doork
+    3300016: Mesh17 doork
+    3300018: Mesh18 doork
+    3300020: Mesh19 doork
+    3300022: Mesh2 doorkn
+    3300024: Mesh20 doork
+    3300026: Mesh21 doork
+    3300028: Mesh22 doork
+    3300030: Mesh23 doork
+    3300032: Mesh24 doork
+    3300034: Mesh25 doork
+    3300036: Mesh26 doork
+    3300038: Mesh27 doork
+    3300040: Mesh28 doork
+    3300042: Mesh29 doork
+    3300044: Mesh3 doorkn
+    3300046: Mesh30 doork
+    3300048: Mesh31 doork
+    3300050: Mesh32 doork
+    3300052: Mesh33 doork
+    3300054: Mesh34 doork
+    3300056: Mesh35 doork
+    3300058: Mesh36 doork
+    3300060: Mesh37 Group
+    3300062: Mesh4 doorkn
+    3300064: Mesh5 doorkn
+    3300066: Mesh6 doorkn
+    3300068: Mesh7 doorkn
+    3300070: Mesh8 doorkn
+    3300072: Mesh9 doorkn
+    4300000: Mesh1 doorkn
+    4300002: Mesh2 doorkn
+    4300004: Mesh3 doorkn
+    4300006: Mesh4 doorkn
+    4300008: Mesh5 doorkn
+    4300010: Mesh6 doorkn
+    4300012: Mesh7 doorkn
+    4300014: Mesh8 doorkn
+    4300016: Mesh9 doorkn
+    4300018: Mesh10 doork
+    4300020: Mesh11 doork
+    4300022: Mesh12 doork
+    4300024: Mesh13 doork
+    4300026: Mesh14 doork
+    4300028: Mesh15 doork
+    4300030: Mesh16 doork
+    4300032: Mesh17 doork
+    4300034: Mesh18 doork
+    4300036: Mesh19 doork
+    4300038: Mesh20 doork
+    4300040: Mesh21 doork
+    4300042: Mesh22 doork
+    4300044: Mesh23 doork
+    4300046: Mesh24 doork
+    4300048: Mesh25 doork
+    4300050: Mesh26 doork
+    4300052: Mesh27 doork
+    4300054: Mesh28 doork
+    4300056: Mesh29 doork
+    4300058: Mesh30 doork
+    4300060: Mesh31 doork
+    4300062: Mesh32 doork
+    4300064: Mesh33 doork
+    4300066: Mesh34 doork
+    4300068: Mesh35 doork
+    4300070: Mesh36 doork
+    4300072: Mesh37 Group
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
